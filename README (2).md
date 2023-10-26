@@ -1,6 +1,6 @@
 # Report on Data Exploration, Visualization, and Supervised Learning - Regression using IBM Cognos  Phase 4📊
 
-Prepared by: [Vinay Kumar] 📋
+Prepared by: [PRABHAT KUMAR ] 📋
 
 Date: [26 october 2023] 📅
 
