@@ -15,9 +15,9 @@ Data analytics is a critical component of modern business intelligence and decis
 - IBM Cognos offers a seamless experience in importing data from diverse sources such as databases, spreadsheets, and flat files. 📁
 - The system automates data type recognition and facilitates data cleaning, transformation, and integration. 🧹
 
-### Data Exploration 🔍
+### Data Exploration 
 
-- Data exploration in Cognos is an intuitive process, thanks to its user-friendly interface. Data queries and filters are easily created, enabling users to analyze data summary statistics effectively. 👓
+- Data exploration in Cognos is an intuitive process, thanks to its user-friendly interfaces. Data queries and filters are easily created, enabling users to analyze data summary statistics effectively. 👓
 - Data profiling tools provide essential insights into data distribution, patterns, and outliers. 📊
 
 ### Data Visualization 📈
